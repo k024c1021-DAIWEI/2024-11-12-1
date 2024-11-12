@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    username='リョウスケ'
+    username='ユスケ'
     age=22
     email='keiji@example.com'
 
